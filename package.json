@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Obfuscating transformer for react-native",
   "main": "dist/index.js",
-  "repository": "https://github.com/ds300/react-native-obfuscating-transformer",
+  "repository": "https://github.com/busyhive/react-native-obfuscating-transformer.git",
   "author": "Giorgos Ioannidis <giorgos.ioannidis92@gmail.com>",
   "license": "MIT",
   "publishConfig": {
